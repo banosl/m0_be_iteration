@@ -22,3 +22,5 @@ words.each do |word|
 end
 
 # Record yourself live-coding and talking through either Challenge 1 or 2. The recording doesn't have to be the first time you are solving the problem. Use technical vocabulary and explain each part to demonstrate your understanding! Share the link to your video in your small group channel.
+
+#Link to the loom video https://www.loom.com/share/10d07e1b620e4a388782a91b854711ad
